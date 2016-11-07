@@ -21,3 +21,4 @@ var nameArray = [];
 
 nameArray.push("Naoto", "Yamaguchi");
 
+genericNumberArray.push(6, 7, 8, 9, 10);
