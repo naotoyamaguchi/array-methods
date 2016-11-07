@@ -33,3 +33,8 @@ var nextOrder = orderQueue.shift();
 mixedNums.sort();
 mixedWords.sort();
 
+var notFruit = fruitCollection.splice(1, 3);
+
+gemBox.splice(5, 2);
+console.log(gemBox);
+gemBox.splice(6, 4);
